@@ -1,0 +1,13 @@
+1.Elementem modelu pudełkowego nie jest:
+2.Obramowanie w postaci kresek to: dashed 
+3.Która instrukcja dotyczy definiowania koloru obramowania dolnej krawędź obiektu? - selektor { border-bottom-color: kolor }
+4.Które elementy modelu pudełkowego mogą mieć wartości zerowe? -  Padding, border i margin mogą mieć zerową wartość. 
+5.Który układ jest poprawny(znajomość, schematu graficznego modelu pudełkowego-grafika z instrukcji). - (od środka) content, padding, border, margin
+6.Który kod realizuje następujący obraz( podany kod i należy przypisać do układu) - 
+7.Całkowita szerokośći wysokość zdefiniowanego obiektu w modelupudełkowym to:(na podstawie kodu należy podać) - 
+8.Który rodzaj definiowania marginesu w modelu pudełkowym istnieje:
+9.Każdy element w dokumencie HTML, otacza jest obszarem zwanym pudełkiem, którego kształt nie może być:( tutaj będą wymienione figury geometryczne)
+10.Padding  - Styl definiuje wielkość dopełnienia dla elementu.
+11.Margines - powierzchnia między kolumną tekstu a krawędziami stronicy..
+12.Content – Za pomocą właściwości content możemy określić typ dodatkowej treści.
+13.Border – Obramowanie deklarowane jest poprzez border.
