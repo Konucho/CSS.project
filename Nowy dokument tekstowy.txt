@@ -1,0 +1,15 @@
+1.Elementem modelu pude³kowego nie jest:
+2.Obramowanie w postaci kresek to: dashed 
+3.Która instrukcja dotyczy definiowania koloru obramowania dolnej krawêdŸ obiektu? - selektor { border-bottom-color: kolor }
+4.Które elementy modelu pude³kowego mog¹ mieæ wartoœci zerowe? -  Padding, border i margin mog¹ mieæ zerow¹ wartoœæ. 
+5.Który uk³ad jest poprawny(znajomoœæ, schematu graficznego modelu pude³kowego-grafika z instrukcji). - (od œrodka) content, padding, border, margin
+6.Który kod realizuje nastêpuj¹cy obraz( podany kod i nale¿y przypisaæ do uk³adu) - 
+7.Ca³kowita szerokoœæi wysokoœæ zdefiniowanego obiektu w modelupude³kowym to:(na podstawie kodu nale¿y podaæ) - 
+8.Który rodzaj definiowania marginesu w modelu pude³kowym istnieje:
+9.Ka¿dy element w dokumencie HTML, otacza jest obszarem zwanym pude³kiem, którego kszta³t nie mo¿e byæ:( tutaj bêd¹ wymienione figury geometryczne)
+10.Padding  - Styl definiuje wielkoœæ dope³nienia dla elementu.
+11.Margines - powierzchnia miêdzy kolumn¹ tekstu a krawêdziami stronicy..
+12.Content – Za pomoc¹ w³aœciwoœci content mo¿emy okreœliæ typ dodatkowej treœci.
+13.Border – Obramowanie deklarowane jest poprzez border.
+
+https://www.testportal.pl/test.html?t=c3aZ6ymLBzrY
